@@ -6,3 +6,8 @@
     background-color: hotpink;
     font-size: smaller;
 }
+
+.del-book-btn {
+    background-color: red;
+    font-size: 12px;
+}
