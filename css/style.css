@@ -1,1 +1,8 @@
+.title {
+    background-color: aquamarine;
+}
 
+.description {
+    background-color: hotpink;
+    font-size: smaller;
+}
