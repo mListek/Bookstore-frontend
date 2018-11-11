@@ -1,2 +1,2 @@
 # Workshop_4
-Frontend
+A book store web application made with HTML and Javascript
